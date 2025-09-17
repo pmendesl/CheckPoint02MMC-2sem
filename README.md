@@ -1,4 +1,4 @@
-# CheckPoint02MMC-2sem
+# Integrantes: Pedro Mendes RM: 562242 / Leonardo Augusto RM: 565564 / Alexandre RM: 563346
 
 # Checkpoint 02 - Modelagem Matemática e Computacional
 
